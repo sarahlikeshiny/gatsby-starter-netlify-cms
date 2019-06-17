@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great coffee with a conscience by Sarah
 image: /img/home-jumbotron.jpg
 heading: 'This is Cool! '
 subheading: Support sustainable farming while enjoying a cup
