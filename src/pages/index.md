@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience by Sarah
 image: /img/home-jumbotron.jpg
-heading: 'This is Cool! '
+heading: This is Great!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
